@@ -60,5 +60,4 @@ for card in resulting_card_list:
 # Reach
 # Enchanted creature gets +2/+2 and has reach.
 # ------------
-
 ```
